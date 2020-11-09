@@ -1,11 +1,9 @@
-# Exo-13-HTML-balises-texte
+# Exo-12-HTML-Div
 
 ## Exo
 
-Sans vous aider des templates PhpStorm, réorganisez le code HTML afin que TOUTE la page soit valide tant au niveau de la structure, que des paragraphes, etc...
+Créez une nouvelle page HTML et montrez moi que vous avez compris l'utilisation des balises div en construisant un menu ( sans balise nav ) et une page contenant au moins 15 divs.
 
-Une fois le texte remis en forme, ajoutez y quelques images histoire d'agrémenter le tout.
+Le règle est simple mais il doit y avoir un minimum de contenu.
 
-Ensuite, structurez votre contenu en y ajoutant quelques titres et quelques divs.
-
-Et enfin, amusez vous à utiliser un maximum de balises HTML pour metrte en forme le texte, définitions, listes, mise en évidence, tout doit y passer ( voir la liste dans le cours )
+Bonus: Appliquer du style à vos divs ( en introduction au CSS ).
